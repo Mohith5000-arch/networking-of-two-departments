@@ -24,47 +24,21 @@ CIDR prefix: /25
 
 Subnet 1
 
-Field
-
-Value
-
-Network ID
-
-192.168.40.0/25
-
-Subnet mask
-
-255.255.255.128
-
-Usable host IP range
-
-192.168.40.1 – 192.168.40.126
-
-Broadcast ID
-
-192.168.40.127
+Network ID -192.168.40.0/25
+Subnet mask -255.255.255.128
+Usable host IP range -192.168.40.1 – 192.168.40.126
+Broadcast ID -192.168.40.127
 
 Subnet 2
 
-Field
 
-Value
+Network ID -192.168.40.128/25
 
-Network ID
+Subnet mask -255.255.255.128
 
-192.168.40.128/25
+Usable host IP range -192.168.40.129 – 192.168.40.254
 
-Subnet mask
-
-255.255.255.128
-
-Usable host IP range
-
-192.168.40.129 – 192.168.40.254
-
-Broadcast ID
-
-192.168.40.255
+Broadcast ID -192.168.40.255
 
 How This Supports the Project
 
