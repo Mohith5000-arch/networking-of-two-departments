@@ -25,8 +25,11 @@ CIDR prefix: /25
 Subnet 1
 
 Network ID -192.168.40.0/25
+
 Subnet mask -255.255.255.128
+
 Usable host IP range -192.168.40.1 – 192.168.40.126
+
 Broadcast ID -192.168.40.127
 
 Subnet 2
